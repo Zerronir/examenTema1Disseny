@@ -1,0 +1,22 @@
+{
+  "short_name": "Examen Tema 1",
+  "name": "PWA de l'examen del tema 1",
+  "description": "Fet per Raul, creo que soy el único de la clase en verdad",
+  "icons": [
+    {
+      "src": "/dist/img/house_192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/dist/img/house_512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6"
+}
